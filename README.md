@@ -77,7 +77,7 @@ pnpm dev
 ```
 
 
-Open [http://localhost:5***] with your browser to see the result.
+Open `http://localhost:5173/` with your browser to see the result.
 
 ## Learn More
 
