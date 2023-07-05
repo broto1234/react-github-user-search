@@ -15,7 +15,7 @@ With PNPM:
 pnpm create vite
 ```
 
-*Project name*:  . and hit enter. (DOT to create app in current folder)
+*Project name*:  . (DOT to create app in the current folder)
 
 *Select a framework*: React
 
