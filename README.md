@@ -1,7 +1,7 @@
 # react-github-user-search
 This is a **GitHub user's search** app with Vite+React.js, and tailwindcss hosted on Vercel (https://react-github-user-search-mu.vercel.app).
 
-## Getting Started
+## Getting Started 
 With NPM:
 ```bash
 npm create vite@latest
