@@ -26,7 +26,7 @@ export default function UserForm({ onSubmit }) {
           name = 'user'
           value={user}
           onChange={e => setUser(e.target.value)}
-          
+          placeholder = "Write your github user Id"          
         />
         <button type="submit" className="ml-2 py-2 px-3 border border-gray-300 rounded-md text-sm leading-4 font-medium text-gray-800 hover:text-white hover:bg-gray-800 focus:outline-none ">
           Search</button>
